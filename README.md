@@ -1,40 +1,31 @@
 # 冴羽的博客
 
-## 公众号
+## 关于作者
 
-|微信（冴羽本人）|公众号|
-|:----:|:----:|
-|<img src="https://user-images.githubusercontent.com/11458263/156172823-5af1316e-2a3e-4f48-9908-682a74adb540.jpeg" width="120">|<img src="https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg" width="120">|
-|mqyqingfeng|冴羽的 JavaScript 博客|
-|[加入低调务实优秀中国好青年社群](https://www.yuque.com/yayu/nice-people/xou8qr)|文章同步更新|
+* 博客：[https://yayujs.com/](https://yayujs.com/)
+* 社群：[“低调务实优秀中国好青年”前端社群](https://www.yuque.com/yayu/nice-people/xou8qr)
+* 成长：[茶话会](https://www.yuque.com/yayu/blog/grow)、[微信读书](https://yayujs.com/grow)
+* 小册：[《Next.js 开发指南》](https://s.juejin.cn/ds/i8kJo2o8/)、[《Svelte 开发指南》](https://s.juejin.cn/ds/iUurdrae/)
+* 翻译：[TypeScript 中文文档](http://ts.yayujs.com/)、[Solid.js 中文文档](https://solid.yayujs.com/)、[Svelte 中文文档](https://svelte.yayujs.com/)
+* 专栏：[掘金](https://juejin.cn/user/712139234359182/columns)、[思否](https://segmentfault.com/u/yayu)、[语雀](https://www.yuque.com/yayu)、公众号：[冴羽（#yayujs）](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
 
-## 专栏
+## Svelte 官方文档翻译
 
-* [掘金](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
-* [思否](https://segmentfault.com/u/yayu/articles)
-* [知乎](https://zhuanlan.zhihu.com/c_1042806379215601664)
-* [语雀](https://www.yuque.com/qingyu-fasl3/od8gmv)
-* [慕课](https://www.imooc.com/u/306841)
+1. 主要内容已翻译完毕，查看站点： [Svelte 中文文档](https://svelte.yayujs.com/)
+2. 关于 Svelte 的介绍，查看 [《Svelte 开发指南》](https://s.juejin.cn/ds/iUurdrae/)
 
-## 小册
+## Solid.js 官方文档翻译
 
-* [《Next.js 开发指南》](https://s.juejin.cn/ds/i8kJo2o8/)
-  * 60 篇文章，分为基础篇、实战篇、源码篇、面试篇，带你系统掌握 Next.js
+1. 主要内容已翻译完毕，查看站点： [Solid.js 中文文档](https://solid.yayujs.com/)
+2. 关于 Solid.js 的介绍，查看[《这个比 React 更 react 的框架 —— Solid.js 最新中文文档来了！》](https://juejin.cn/post/7457857802088890387)
+
+## Next.js 系列
+
+因为签约原因，首发在掘金，一共 24 篇，专栏地址：[Next.js 开发指北](https://juejin.cn/column/7343569488744611849)
 
 ## React 系列
 
-1. [React 之 createElement 源码解读](https://github.com/mqyqingfeng/Blog/issues/316)
-2. [React 之元素与组件的区别](https://github.com/mqyqingfeng/Blog/issues/317)
-3. [React 之 Refs 的使用和 forwardRef 的源码解读](https://github.com/mqyqingfeng/Blog/issues/318)
-4. [React 之 Context 的变迁与背后实现](https://github.com/mqyqingfeng/Blog/issues/319)
-
-## 项目开发
-
-1. [聊聊 npm 的语义化版本（Semver）](https://github.com/mqyqingfeng/Blog/issues/312)
-
-## 个人成长
-
-1. [如何让自己快速成长？来听听冴羽的这些演讲！（音视频版）](https://www.yuque.com/yayu/blog/grow)
+因为签约原因，首发在掘金，一共 16 篇，专栏地址：[React 基础与进阶](https://juejin.cn/column/7142674773930147853)
 
 ## 冴羽答读者问
 
@@ -60,7 +51,11 @@
 20. [过程比结果重要吗？](https://github.com/mqyqingfeng/Blog/issues/309)
 21. [冴羽，你为什么写起了鸡汤？](https://github.com/mqyqingfeng/Blog/issues/310)
 
-## TypeScript4 官方文档翻译，收录在 [ts.yayujs.com](http://ts.yayujs.com/)
+## TypeScript 官方文档翻译
+
+1. 主要内容已翻译完毕，查看站点： [TypeScript 中文文档](https://ts.yayujs.com/)
+
+系列目录：
 
 1. [TypeScript之基础入门](https://github.com/mqyqingfeng/Blog/issues/227)
 2. [TypeScript之常见类型（上）](https://github.com/mqyqingfeng/Blog/issues/228)
@@ -116,9 +111,10 @@
 33. [搭建 VuePress 站点必做的 10 个优化](https://github.com/mqyqingfeng/Blog/issues/278) 
 34. [VuePress 博客搭建系列 33 篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/279)
 
-## 浏览器系列
+## 一些单篇
 
 1. [浏览器系列之 Cookie 和 SameSite 属性](https://github.com/mqyqingfeng/Blog/issues/157)
+1. [聊聊 npm 的语义化版本（Semver）](https://github.com/mqyqingfeng/Blog/issues/312)
 
 ## 面试系列
 
@@ -208,10 +204,6 @@
 18. [ES6 系列之我们来聊聊装饰器](https://github.com/mqyqingfeng/Blog/issues/109)
 19. [ES6 系列之私有变量的实现](https://github.com/mqyqingfeng/Blog/issues/110)
 20. [ES6 完全使用手册](https://github.com/mqyqingfeng/Blog/issues/111)
-
-## 注意
-
-深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
 
 ## 勘误及提问
 
